@@ -1,0 +1,2283 @@
+,Tipo Conexión,Tipo Carga,Tipo Corriente,Provincia
+0,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+1,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+2,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+3,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+4,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+5,Schuko,ND 0kW,AC,Barcelona
+6,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+7,CCS Combo2+ChadeMO,Carga Rápida (DC),DC,Barcelona
+8,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+9,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+10,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+11,CCS Combo2,Carga Ultrarrápida (DC),DC,Barcelona
+12,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+13,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+14,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+15,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+16,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+17,CCS Combo2+ChadeMO+MENNEKES.M,ND 0kW,AC/DC,Barcelona
+18,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+19,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+20,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+21,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+22,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+23,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+24,MENNEKES.F+Schuko,ND 0kW,AC/DC,Barcelona
+25,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+26,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+27,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+28,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+29,CCS Combo2,Carga Ultrarrápida (DC),DC,Barcelona
+30,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+31,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+32,MENNEKES.M+Schuko,Carga Semirrápida (AC),AC,Barcelona
+33,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+34,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+35,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+36,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+37,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+38,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+39,CCS Combo2+ChadeMO+MENNEKES.M,ND 0kW,AC/DC,Barcelona
+40,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+41,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+42,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+43,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+44,MENNEKES.M+Schuko,Carga Semirrápida (AC),AC,Barcelona
+45,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+46,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+47,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+48,MENNEKES.F+Schuko,ND 0kW,AC/DC,Tarragona
+49,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+50,CCS Combo2,Carga Ultrarrápida (DC),DC,Barcelona
+51,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+52,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+53,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+54,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+55,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+56,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+57,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+58,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+59,MENNEKES.F,ND 0kW,AC/DC,Barcelona
+60,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+61,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+62,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+63,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+64,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+65,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+66,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+67,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+68,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+69,MENNEKES.M+Schuko,Carga Lenta (AC),AC,Barcelona
+70,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+71,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+72,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+73,CCS Combo2,Carga Rápida (DC),DC,Barcelona
+74,CCS Combo2,Carga Rápida (DC),DC,Barcelona
+75,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+76,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+77,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+78,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+79,MENNEKES.M,Carga Lenta (AC),AC,Tarragona
+80,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+81,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+82,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+83,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+84,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+85,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+86,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+87,CCS Combo2,Carga Ultrarrápida (DC),DC,Barcelona
+88,CCS Combo2+ChadeMO,Carga Rápida (DC),DC,Barcelona
+89,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+90,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+91,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+92,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+93,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+94,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+95,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+96,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+97,MENNEKES.M+Schuko,Carga Lenta (AC),AC,Barcelona
+98,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+99,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+100,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+101,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+102,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+103,CCS Combo2,Carga Rápida (DC),DC,Lérida
+104,MENNEKES.M+Schuko,Carga Lenta (AC),AC,Barcelona
+105,TESLA,ND 0kW,AC,Barcelona
+106,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+107,CCS Combo2+ChadeMO,Carga Rápida (DC),DC,Barcelona
+108,CCS Combo2+ChadeMO+MENNEKES.M+Schuko,Carga Rápida (DC),AC/DC,Barcelona
+109,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+110,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+111,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+112,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+113,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+114,MENNEKES.M,Carga Rápida (DC),AC,Tarragona
+115,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+116,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+117,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+118,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+119,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+120,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+121,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+122,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+123,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+124,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+125,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+126,TESLA,ND 0kW,AC,Barcelona
+127,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+128,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+129,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+130,CCS Combo2,Carga Rápida (DC),DC,Barcelona
+131,CCS Combo2,Carga Rápida (DC),DC,Gerona
+132,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+133,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+134,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+135,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+136,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+137,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+138,CCS Combo2,Carga Rápida (DC),DC,Lérida
+139,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+140,CCS Combo2,Carga Rápida (DC),DC,Barcelona
+141,ChadeMO,Carga Rápida (DC),DC,Tarragona
+142,MENNEKES.M,Carga Rápida (DC),AC,Lérida
+143,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+144,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+145,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+146,Schuko,ND 0kW,AC,Barcelona
+147,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+148,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+149,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+150,MENNEKES.M+Schuko,Carga Semirrápida (AC),AC,Barcelona
+151,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+152,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+153,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+154,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+155,MENNEKES,ND 0kW,AC/DC,Tarragona
+156,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+157,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+158,CCS Combo2,Carga Rápida (DC),DC,Barcelona
+159,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+160,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+161,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+162,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+163,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+164,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+165,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+166,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+167,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+168,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+169,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+170,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+171,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+172,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+173,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+174,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+175,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+176,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+177,CCS Combo2,Carga Rápida (DC),DC,Lérida
+178,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+179,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+180,MENNEKES.F+Schuko,ND 0kW,AC/DC,Barcelona
+181,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+182,CCS Combo2,Carga Ultrarrápida (DC),DC,Barcelona
+183,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+184,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+185,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+186,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+187,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+188,MENNEKES.M+Schuko,Carga Semirrápida (AC),AC,Barcelona
+189,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+190,CCS Combo2,Carga Ultrarrápida (DC),DC,Barcelona
+191,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+192,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+193,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+194,MENNEKES.F+Schuko,ND 0kW,AC/DC,Barcelona
+195,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+196,MENNEKES.M+Schuko,Carga Semirrápida (AC),AC,Barcelona
+197,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+198,MENNEKES.M+TESLA,ND 0kW,AC/DC,Barcelona
+199,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+200,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+201,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+202,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+203,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+204,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+205,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+206,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+207,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+208,CCS Combo2,Carga Ultrarrápida (DC),DC,Gerona
+209,CCS Combo2+ChadeMO+MENNEKES.M,Carga Semirrápida (AC),AC/DC,Tarragona
+210,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+211,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+212,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+213,Schuko,ND 0kW,AC,Barcelona
+214,TESLA,ND 0kW,AC,Gerona
+215,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+216,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+217,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+218,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+219,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+220,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+221,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+222,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+223,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+224,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+225,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+226,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+227,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+228,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+229,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+230,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+231,CCS Combo2+ChadeMO+MENNEKES.M,Carga Semirrápida (AC),AC/DC,Lérida
+232,TESLA,ND 0kW,AC,Barcelona
+233,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+234,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+235,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+236,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+237,,ND 0kW,AC,Lérida
+238,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+239,Schuko,ND 0kW,AC,Barcelona
+240,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+241,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+242,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+243,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+244,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+245,CCS Combo2+ChadeMO+MENNEKES.M+Schuko,Carga Rápida (DC),AC/DC,Barcelona
+246,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+247,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+248,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+249,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+250,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+251,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+252,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+253,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+254,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+255,CCS Combo2+ChadeMO,Carga Rápida (DC),DC,Tarragona
+256,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+257,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+258,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+259,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+260,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+261,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+262,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+263,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+264,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+265,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+266,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+267,MENNEKES.M+Schuko,Carga Lenta (AC),AC,Barcelona
+268,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+269,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+270,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+271,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+272,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+273,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+274,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+275,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+276,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+277,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+278,Schuko,ND 0kW,AC,Barcelona
+279,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+280,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+281,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+282,CCS Combo2,Carga Rápida (DC),DC,Barcelona
+283,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+284,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+285,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+286,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+287,CCS Combo2+ChadeMO,Carga Rápida (DC),DC,Barcelona
+288,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+289,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+290,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+291,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+292,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+293,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+294,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+295,CCS Combo2,Carga Rápida (DC),DC,Barcelona
+296,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+297,CCS Combo2+ChadeMO,Carga Rápida (DC),DC,Barcelona
+298,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+299,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+300,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+301,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+302,CCS Combo2+ChadeMO+MENNEKES.M,ND 0kW,AC/DC,Tarragona
+303,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+304,MENNEKES.F+Schuko,ND 0kW,AC/DC,Lérida
+305,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+306,Schuko,ND 0kW,AC,Barcelona
+307,MENNEKES.M+Schuko,Carga Semirrápida (AC),AC,Barcelona
+308,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+309,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+310,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+311,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+312,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+313,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+314,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+315,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+316,MENNEKES.M+Schuko,Carga Semirrápida (AC),AC,Barcelona
+317,CCS Combo2,Carga Ultrarrápida (DC),DC,Barcelona
+318,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+319,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+320,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+321,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+322,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+323,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+324,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+325,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+326,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+327,CCS Combo2+ChadeMO,Carga Rápida (DC),DC,Barcelona
+328,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+329,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+330,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+331,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+332,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+333,CCS Combo2,Carga Ultrarrápida (DC),DC,Lérida
+334,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+335,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+336,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+337,MENNEKES.F+Schuko,ND 0kW,AC/DC,Barcelona
+338,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+339,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+340,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+341,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+342,CCS Combo2,Carga Rápida (DC),DC,Tarragona
+343,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+344,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+345,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+346,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+347,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+348,CCS Combo2+ChadeMO,Carga Rápida (DC),DC,Barcelona
+349,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+350,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+351,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+352,MENNEKES.M,Carga Lenta (AC),AC,Tarragona
+353,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+354,TESLA,ND 0kW,AC,Gerona
+355,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+356,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+357,MENNEKES.M,Carga Lenta (AC),AC,Barcelona
+358,MENNEKES.M+Schuko,Carga Semirrápida (AC),AC,Barcelona
+359,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+360,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+361,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+362,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+363,CCS Combo2,Carga Ultrarrápida (DC),DC,Gerona
+364,CCS Combo2,Carga Rápida (DC),DC,Gerona
+365,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+366,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+367,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+368,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+369,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+370,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+371,MENNEKES.M+Schuko,Carga Semirrápida (AC),AC,Gerona
+372,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+373,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+374,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+375,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+376,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+377,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+378,CCS Combo2+ChadeMO,Carga Rápida (DC),DC,Barcelona
+379,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+380,MENNEKES.M+Schuko,Carga Rápida (DC),AC,Barcelona
+381,MENNEKES.M,Carga Rápida (DC),AC,Tarragona
+382,CCS Combo2,Carga Rápida (DC),DC,Lérida
+383,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+384,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+385,MENNEKES.M+Schuko,Carga Semirrápida (AC),AC,Barcelona
+386,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+387,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+388,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+389,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+390,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+391,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+392,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+393,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+394,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+395,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+396,CCS Combo2,Carga Rápida (DC),DC,Barcelona
+397,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+398,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+399,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+400,MENNEKES.M,Carga Rápida (DC),AC,Lérida
+401,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+402,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+403,Schuko,ND 0kW,AC,Barcelona
+404,MENNEKES.M+Schuko,Carga Semirrápida (AC),AC,Barcelona
+405,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+406,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+407,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+408,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+409,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+410,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+411,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+412,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+413,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+414,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+415,CCS Combo2,Carga Ultrarrápida (DC),DC,Barcelona
+416,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+417,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+418,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+419,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+420,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+421,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+422,MENNEKES.M+Schuko,Carga Semirrápida (AC),AC,Barcelona
+423,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+424,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+425,MENNEKES.M,Carga Rápida (DC),AC,Tarragona
+426,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+427,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+428,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+429,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+430,CCS Combo2,Carga Ultrarrápida (DC),DC,Gerona
+431,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+432,CCS Combo2,Carga Ultrarrápida (DC),DC,Tarragona
+433,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+434,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+435,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+436,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+437,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+438,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+439,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+440,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+441,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+442,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+443,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+444,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+445,,ND 0kW,AC,Barcelona
+446,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+447,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+448,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+449,MENNEKES.M+Schuko,Carga Lenta (AC),AC,Barcelona
+450,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+451,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+452,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+453,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+454,MENNEKES.M,Carga Lenta (AC),AC,Barcelona
+455,CCS Combo2,Carga Rápida (DC),DC,Barcelona
+456,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+457,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+458,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+459,CCS Combo2,Carga Rápida (DC),DC,Gerona
+460,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+461,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+462,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+463,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+464,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+465,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+466,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+467,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+468,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+469,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+470,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+471,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+472,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+473,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+474,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+475,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+476,CCS Combo2,Carga Rápida (DC),DC,Barcelona
+477,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+478,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+479,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+480,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+481,CCS Combo2,Carga Ultrarrápida (DC),DC,Lérida
+482,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+483,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+484,CCS Combo2+MENNEKES.M,Carga Ultrarrápida (DC),AC/DC,Barcelona
+485,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+486,MENNEKES.M+Schuko,Carga Lenta (AC),AC,Barcelona
+487,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+488,CCS Combo2,Carga Ultrarrápida (DC),DC,Tarragona
+489,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+490,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+491,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+492,CCS Combo2,ND 0kW,DC,Barcelona
+493,MENNEKES.M,Carga Rápida (DC),AC,Lérida
+494,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+495,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+496,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+497,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+498,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+499,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+500,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+501,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+502,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+503,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+504,CCS Combo2,Carga Ultrarrápida (DC),DC,Gerona
+505,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+506,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+507,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+508,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+509,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+510,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+511,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+512,CCS Combo2,Carga Rápida (DC),DC,Gerona
+513,MENNEKES.M,Carga Rápida (DC),AC,Tarragona
+514,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+515,CCS Combo2+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+516,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+517,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+518,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+519,CCS Combo2,Carga Rápida (DC),DC,Tarragona
+520,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+521,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+522,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+523,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+524,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+525,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+526,MENNEKES.M+Schuko,Carga Semirrápida (AC),AC,Barcelona
+527,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+528,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+529,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+530,CCS Combo2+ChadeMO,Carga Rápida (DC),DC,Gerona
+531,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+532,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+533,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+534,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+535,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+536,CCS Combo2+ChadeMO+MENNEKES.M+Schuko,Carga Rápida (DC),AC/DC,Barcelona
+537,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+538,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+539,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+540,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+541,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+542,2xMENNEKES.F+2xSchuko,ND 0kW,AC/DC,Lérida
+543,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+544,CCS Combo2+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+545,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+546,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+547,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+548,Schuko,ND 0kW,AC,Barcelona
+549,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+550,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+551,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+552,CCS Combo2,Carga Rápida (DC),DC,Lérida
+553,MENNEKES.M+Schuko,Carga Semirrápida (AC),AC,Barcelona
+554,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+555,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+556,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+557,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+558,CCS Combo2,Carga Ultrarrápida (DC),DC,Barcelona
+559,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+560,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+561,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+562,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+563,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+564,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+565,MENNEKES.M,Carga Rápida (DC),AC,Tarragona
+566,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+567,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+568,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+569,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+570,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+571,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+572,CCS Combo2,Carga Ultrarrápida (DC),DC,Barcelona
+573,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+574,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+575,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+576,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+577,MENNEKES.M+Schuko,Carga Lenta (AC),AC,Barcelona
+578,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+579,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+580,ChadeMO,Carga Semirrápida (AC),DC,Barcelona
+581,CCS Combo2,Carga Ultrarrápida (DC),DC,Gerona
+582,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+583,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+584,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+585,MENNEKES.M,Carga Rápida (DC),AC,Tarragona
+586,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+587,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+588,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+589,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+590,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+591,CCS Combo2,Carga Ultrarrápida (DC),DC,Barcelona
+592,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+593,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+594,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+595,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+596,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+597,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+598,MENNEKES.M+Schuko,Carga Semirrápida (AC),AC,Barcelona
+599,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+600,Schuko,ND 0kW,AC,Barcelona
+601,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+602,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+603,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+604,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+605,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+606,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+607,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+608,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+609,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+610,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+611,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+612,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+613,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+614,CCS Combo2,Carga Rápida (DC),DC,Barcelona
+615,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+616,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+617,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+618,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+619,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+620,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+621,CCS Combo2+ChadeMO,Carga Rápida (DC),DC,Barcelona
+622,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+623,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+624,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+625,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+626,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+627,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+628,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+629,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+630,CCS Combo2+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+631,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+632,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+633,CCS Combo2,Carga Rápida (DC),DC,Tarragona
+634,MENNEKES.M+Schuko,Carga Lenta (AC),AC,Barcelona
+635,CCS Combo2,Carga Ultrarrápida (DC),DC,Gerona
+636,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+637,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+638,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+639,MENNEKES.M+Schuko,Carga Lenta (AC),AC,Barcelona
+640,Schuko,ND 0kW,AC,Barcelona
+641,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+642,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+643,MENNEKES.M+Schuko,Carga Semirrápida (AC),AC,Tarragona
+644,CCS Combo2,Carga Rápida (DC),DC,Lérida
+645,CCS Combo2,Carga Ultrarrápida (DC),DC,Lérida
+646,Schuko,ND 0kW,AC,Barcelona
+647,CCS Combo2,ND 0kW,DC,Lérida
+648,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+649,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+650,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+651,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+652,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+653,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+654,CCS Combo2+ChadeMO,Carga Rápida (DC),DC,Barcelona
+655,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+656,CCS Combo2,Carga Ultrarrápida (DC),DC,Barcelona
+657,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+658,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+659,MENNEKES.M+Schuko,Carga Lenta (AC),AC,Barcelona
+660,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+661,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+662,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+663,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+664,CCS Combo2,Carga Ultrarrápida (DC),DC,Gerona
+665,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+666,CCS Combo2+ChadeMO+MENNEKES.M+Schuko,Carga Rápida (DC),AC/DC,Barcelona
+667,MENNEKES.M,Carga Rápida (DC),AC,Tarragona
+668,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+669,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+670,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+671,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+672,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+673,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+674,CCS Combo2,Carga Rápida (DC),DC,Barcelona
+675,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+676,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+677,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+678,CCS Combo2+ChadeMO+MENNEKES.M,Carga Ultrarrápida (DC),AC/DC,Lérida
+679,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+680,CCS Combo2,Carga Ultrarrápida (DC),DC,Barcelona
+681,CCS Combo2+ChadeMO+MENNEKES.M+Shucko,ND 0kW,AC/DC,Barcelona
+682,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+683,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+684,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+685,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+686,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+687,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+688,CCS Combo2+ChadeMO+MENNEKES.M,Carga Semirrápida (AC),AC/DC,Tarragona
+689,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+690,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+691,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+692,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+693,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+694,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+695,CCS Combo2,Carga Rápida (DC),DC,Gerona
+696,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+697,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+698,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+699,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+700,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+701,MENNEKES.F,ND 0kW,AC/DC,Barcelona
+702,TESLA,ND 0kW,AC,Barcelona
+703,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+704,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+705,CCS Combo2+ChadeMO+MENNEKES.M+Shucko,ND 0kW,AC/DC,Barcelona
+706,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+707,CCS Combo2+ChadeMO,Carga Rápida (DC),DC,Barcelona
+708,ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+709,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+710,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+711,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+712,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+713,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+714,MENNEKES.M+Schuko,Carga Semirrápida (AC),AC,Barcelona
+715,CCS Combo2+ChadeMO+MENNEKES.M,ND 0kW,AC/DC,Barcelona
+716,CCS Combo2,Carga Ultrarrápida (DC),DC,Barcelona
+717,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+718,ChadeMO,Carga Rápida (DC),DC,Tarragona
+719,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+720,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+721,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+722,CCS Combo2+ChadeMO+MENNEKES.M,ND 0kW,AC/DC,Barcelona
+723,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+724,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+725,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+726,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+727,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+728,CCS Combo2+ChadeMO+MENNEKES.M,Carga Semirrápida (AC),AC/DC,Tarragona
+729,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+730,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+731,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+732,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+733,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+734,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+735,MENNEKES.TESLA,ND 0kW,AC/DC,Gerona
+736,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+737,MENNEKES.M,Carga Rápida (DC),AC,Tarragona
+738,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+739,CCS Combo2+ChadeMO,Carga Rápida (DC),DC,Barcelona
+740,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+741,CCS Combo2,Carga Ultrarrápida (DC),DC,Barcelona
+742,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+743,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+744,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+745,CCS Combo2,Carga Rápida (DC),DC,Lérida
+746,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+747,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+748,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+749,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+750,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+751,CCS Combo2,Carga Ultrarrápida (DC),DC,Gerona
+752,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+753,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+754,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+755,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+756,Schuko i MENNEKES.F,ND 0kW,AC/DC,Lérida
+757,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+758,CCS Combo2,Carga Rápida (DC),DC,Gerona
+759,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+760,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+761,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+762,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+763,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+764,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+765,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+766,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+767,MENNEKES.M,Carga Rápida (DC),AC,Tarragona
+768,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+769,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+770,CCS Combo2,Carga Rápida (DC),DC,Gerona
+771,TESLA,ND 0kW,AC,Barcelona
+772,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+773,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+774,MENNEKES.M,Carga Rápida (DC),AC,Tarragona
+775,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+776,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+777,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+778,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+779,CCS Combo2,Carga Ultrarrápida (DC),DC,Gerona
+780,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+781,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+782,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+783,MENNEKES.M+Schuko,Carga Lenta (AC),AC,Barcelona
+784,MENNEKES.M+Schuko,Carga Lenta (AC),AC,Barcelona
+785,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+786,CCS Combo2,Carga Ultrarrápida (DC),DC,Barcelona
+787,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+788,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+789,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+790,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+791,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+792,CCS Combo2,Carga Ultrarrápida (DC),DC,Barcelona
+793,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+794,CCS Combo2,Carga Ultrarrápida (DC),DC,Tarragona
+795,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+796,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+797,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+798,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+799,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+800,CCS Combo2+ChadeMO,Carga Rápida (DC),DC,Gerona
+801,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+802,CCS Combo2,Carga Ultrarrápida (DC),DC,Tarragona
+803,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+804,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+805,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+806,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+807,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+808,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+809,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+810,CCS Combo2,Carga Ultrarrápida (DC),DC,Barcelona
+811,CCS Combo2,Carga Ultrarrápida (DC),DC,Tarragona
+812,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+813,MENNEKES.M,Carga Rápida (DC),AC,Lérida
+814,MENNEKES+Schuko,ND 0kW,AC/DC,Barcelona
+815,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+816,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+817,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+818,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+819,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+820,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+821,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+822,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+823,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+824,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+825,CCS Combo2+ChadeMO,Carga Rápida (DC),DC,Barcelona
+826,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+827,CCS Combo2,Carga Ultrarrápida (DC),DC,Barcelona
+828,CCS Combo2,Carga Rápida (DC),DC,Gerona
+829,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+830,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+831,MENNEKES.M,Carga Lenta (AC),AC,Barcelona
+832,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+833,CCS Combo2,Carga Ultrarrápida (DC),DC,Tarragona
+834,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+835,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+836,MENNEKES.M,Carga Rápida (DC),AC,Tarragona
+837,MENNEKES.M+Schuko,Carga Lenta (AC),AC,Barcelona
+838,MENNEKES.F+Schuko,ND 0kW,AC/DC,Lérida
+839,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+840,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+841,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+842,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+843,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+844,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+845,CCS Combo2,Carga Rápida (DC),DC,Barcelona
+846,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+847,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+848,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+849,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+850,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+851,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+852,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+853,Schuko,ND 0kW,AC,Barcelona
+854,CCS Combo2+ChadeMO,Carga Rápida (DC),DC,Tarragona
+855,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+856,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+857,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+858,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+859,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+860,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+861,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+862,MENNEKES.F,ND 0kW,AC/DC,Barcelona
+863,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+864,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+865,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+866,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+867,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+868,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+869,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+870,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+871,TESLA,ND 0kW,AC,Gerona
+872,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+873,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+874,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+875,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+876,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+877,MENNEKES.M+Schuko,Carga Lenta (AC),AC,Barcelona
+878,MENNEKES.M+Schuko,Carga Rápida (DC),AC,Barcelona
+879,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+880,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+881,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+882,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+883,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+884,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+885,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+886,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+887,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+888,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+889,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+890,"CCSCombo2, ChadeMo i MENNEKES.M",ND 0kW,AC/DC,Lérida
+891,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+892,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+893,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+894,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+895,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+896,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+897,MENNEKES.M+Schuko,Carga Semirrápida (AC),AC,Barcelona
+898,Schuko,ND 0kW,AC,Barcelona
+899,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+900,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+901,CCS Combo2,Carga Rápida (DC),DC,Gerona
+902,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+903,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+904,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+905,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+906,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+907,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+908,CCS Combo2+ChadeMO,Carga Rápida (DC),DC,Gerona
+909,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+910,CCS Combo2,Carga Rápida (DC),DC,Gerona
+911,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+912,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+913,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+914,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+915,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+916,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+917,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+918,CCS Combo2,Carga Rápida (DC),DC,Barcelona
+919,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+920,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+921,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+922,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+923,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+924,MENNEKES.F+Schuko,ND 0kW,AC/DC,Barcelona
+925,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+926,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),DC,Barcelona
+927,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+928,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+929,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+930,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+931,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+932,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+933,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+934,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+935,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+936,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+937,CCS Combo2,Carga Ultrarrápida (DC),DC,Barcelona
+938,CCS Combo2,Carga Ultrarrápida (DC),DC,Tarragona
+939,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+940,CCS Combo2+ChadeMO+MENNEKES.M,Carga Ultrarrápida (DC),AC/DC,Gerona
+941,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+942,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+943,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+944,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+945,MENNEKES.M,Carga Rápida (DC),AC,Lérida
+946,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+947,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+948,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+949,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+950,CCS Combo2,Carga Rápida (DC),DC,Tarragona
+951,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+952,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+953,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+954,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+955,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+956,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+957,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+958,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+959,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+960,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+961,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+962,MENNEKES.M+Schuko,Carga Semirrápida (AC),AC,Barcelona
+963,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+964,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+965,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+966,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+967,MENNEKES.M,Carga Rápida (DC),AC,Lérida
+968,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+969,MENNEKES.M,Carga Rápida (DC),AC,Lérida
+970,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+971,MENNEKES.M+Schuko,Carga Lenta (AC),AC,Barcelona
+972,CCS Combo2+ChadeMO+MENNEKES.M,ND 0kW,AC/DC,Barcelona
+973,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+974,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+975,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+976,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+977,Schuko,ND 0kW,AC,Barcelona
+978,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+979,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+980,CCS Combo2+ChadeMO+MENNEKES.M,ND 0kW,AC/DC,Barcelona
+981,MENNEKES.M,Carga Lenta (AC),AC,Tarragona
+982,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+983,MENNEKES.F,ND 0kW,AC/DC,Tarragona
+984,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+985,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+986,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+987,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+988,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+989,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+990,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+991,Schuko,ND 0kW,AC,Barcelona
+992,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+993,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+994,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+995,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+996,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+997,Schuko,ND 0kW,AC,Barcelona
+998,CCS Combo2+ChadeMO,Carga Rápida (DC),DC,Barcelona
+999,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1000,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1001,MENNEKES.M+Schuko,Carga Lenta (AC),AC,Barcelona
+1002,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1003,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+1004,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1005,MENNEKES.M,Carga Rápida (DC),AC,Tarragona
+1006,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+1007,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1008,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1009,CCS Combo2+ChadeMO+MENNEKES.M,Carga Semirrápida (AC),AC/DC,Barcelona
+1010,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1011,CCS Combo2,Carga Ultrarrápida (DC),DC,Barcelona
+1012,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+1013,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1014,MENNEKES.M,Carga Rápida (DC),AC,Tarragona
+1015,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+1016,MENNEKES.M+Schuko,Carga Semirrápida (AC),AC,Barcelona
+1017,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1018,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1019,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+1020,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1021,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+1022,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+1023,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1024,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1025,Schuko,ND 0kW,AC,Barcelona
+1026,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1027,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1028,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1029,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+1030,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+1031,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1032,CCS Combo2,Carga Rápida (DC),DC,Barcelona
+1033,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+1034,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1035,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+1036,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1037,CCS Combo2,Carga Rápida (DC),DC,Gerona
+1038,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1039,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1040,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1041,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+1042,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1043,MENNEKES.M+Schuko,Carga Lenta (AC),AC,Barcelona
+1044,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1045,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1046,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1047,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1048,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1049,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1050,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1051,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1052,Schuko,ND 0kW,AC,Barcelona
+1053,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1054,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1055,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+1056,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1057,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1058,MENNEKES.M+Schuko,Carga Lenta (AC),AC,Barcelona
+1059,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+1060,CCS Combo2,Carga Ultrarrápida (DC),DC,Barcelona
+1061,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+1062,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+1063,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1064,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1065,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+1066,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+1067,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1068,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1069,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+1070,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+1071,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1072,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1073,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1074,MENNEKES.M+Schuko,Carga Lenta (AC),AC,Barcelona
+1075,MENNEKES.M,Carga Lenta (AC),AC,Barcelona
+1076,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1077,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1078,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1079,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1080,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1081,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+1082,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1083,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1084,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1085,CCS Combo2+ChadeMO+MENNEKES.M+Schuko,Carga Rápida (DC),AC/DC,Barcelona
+1086,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1087,CCS Combo2+MENNEKES.M,Carga Ultrarrápida (DC),AC/DC,Gerona
+1088,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+1089,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1090,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+1091,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+1092,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1093,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+1094,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1095,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+1096,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1097,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1098,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1099,CCS Combo2+ChadeMO+MENNEKES.M,Carga Ultrarrápida (DC),AC/DC,Tarragona
+1100,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1101,MENNEKES.M+Schuko,Carga Semirrápida (AC),AC,Barcelona
+1102,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1103,CCS Combo2,Carga Ultrarrápida (DC),DC,Lérida
+1104,MENNEKES.M,Carga Rápida (DC),AC,Tarragona
+1105,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1106,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1107,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1108,CCS Combo2+ChadeMO+MENNEKES.M+Shucko,ND 0kW,AC/DC,Barcelona
+1109,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1110,MENNEKES.M,Carga Lenta (AC),AC,Tarragona
+1111,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1112,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+1113,CCS Combo2+ChadeMO+MENNEKES.M,ND 0kW,AC/DC,Barcelona
+1114,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1115,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1116,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+1117,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1118,MENNEKES.M,Carga Rápida (DC),AC,Tarragona
+1119,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1120,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1121,MENNEKES.F,ND 0kW,AC/DC,Barcelona
+1122,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1123,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1124,CCS Combo2,Carga Ultrarrápida (DC),DC,Lérida
+1125,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1126,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1127,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1128,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1129,MENNEKES.M+Schuko,Carga Semirrápida (AC),AC,Gerona
+1130,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+1131,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+1132,Schuko,ND 0kW,AC,Barcelona
+1133,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+1134,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1135,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1136,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1137,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1138,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+1139,MENNEKES.M+Schuko,Carga Lenta (AC),AC,Barcelona
+1140,MENNEKES.M,Carga Rápida (DC),AC,Tarragona
+1141,CCS Combo2,Carga Ultrarrápida (DC),DC,Gerona
+1142,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+1143,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1144,TESLA,ND 0kW,AC,Tarragona
+1145,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+1146,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1147,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1148,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1149,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+1150,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1151,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+1152,CCS Combo2,Carga Rápida (DC),DC,Barcelona
+1153,CCS Combo2+ChadeMO,Carga Rápida (DC),DC,Barcelona
+1154,Schuko,ND 0kW,AC,Barcelona
+1155,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+1156,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1157,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+1158,CCS Combo2+ChadeMO+MENNEKES.M,Carga Ultrarrápida (DC),AC/DC,Tarragona
+1159,MENNEKES.M+Schuko,Carga Lenta (AC),AC,Barcelona
+1160,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+1161,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1162,Schuko,ND 0kW,AC,Barcelona
+1163,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1164,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1165,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1166,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+1167,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1168,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+1169,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1170,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1171,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1172,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1173,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+1174,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+1175,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1176,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1177,CCS Combo2+ChadeMO+MENNEKES.M,Carga Ultrarrápida (DC),AC/DC,Gerona
+1178,CCS Combo2+ChadeMO+MENNEKES.M,Carga Ultrarrápida (DC),AC/DC,Gerona
+1179,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1180,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1181,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1182,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1183,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1184,CCS Combo2+ChadeMO+MENNEKES.M,Carga Ultrarrápida (DC),AC/DC,Barcelona
+1185,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1186,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+1187,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1188,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+1189,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1190,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1191,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1192,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1193,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1194,CCS Combo2,Carga Rápida (DC),DC,Gerona
+1195,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1196,CCS Combo2+ChadeMO+MENNEKES.M,ND 0kW,AC/DC,Barcelona
+1197,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+1198,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1199,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+1200,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1201,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1202,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1203,CCS Combo2+ChadeMO+MENNEKES.M,ND 0kW,AC/DC,Gerona
+1204,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+1205,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+1206,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1207,CCS Combo2,Carga Rápida (DC),DC,Gerona
+1208,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1209,MENNEKES.M,Carga Lenta (AC),AC,Lérida
+1210,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+1211,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+1212,MENNEKES.M,ND 0kW,AC/DC,Barcelona
+1213,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1214,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1215,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1216,MENNEKES.M+Schuko,Carga Lenta (AC),AC,Barcelona
+1217,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1218,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1219,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1220,CCS Combo2+ChadeMO,Carga Ultrarrápida (DC),DC,Gerona
+1221,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+1222,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+1223,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1224,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+1225,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+1226,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1227,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1228,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1229,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1230,CCS Combo2,Carga Ultrarrápida (DC),DC,Lérida
+1231,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1232,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+1233,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1234,CCS Combo2,Carga Rápida (DC),DC,Barcelona
+1235,MENNEKES.M+Schuko,Carga Semirrápida (AC),AC,Barcelona
+1236,MENNEKES.TESLA,ND 0kW,AC/DC,Tarragona
+1237,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1238,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1239,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1240,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1241,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+1242,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1243,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1244,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1245,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1246,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1247,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1248,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1249,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1250,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1251,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1252,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+1253,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1254,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1255,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+1256,MENNEKES.M,Carga Rápida (DC),AC,Tarragona
+1257,MENNEKES.M+Schuko,Carga Lenta (AC),AC,Barcelona
+1258,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+1259,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1260,MENNEKES.M,Carga Rápida (DC),AC,Tarragona
+1261,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1262,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1263,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+1264,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+1265,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1266,CCS Combo2+ChadeMO+MENNEKES.M,ND 0kW,AC/DC,Barcelona
+1267,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1268,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1269,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1270,CCS Combo2+ChadeMO,Carga Rápida (DC),DC,Tarragona
+1271,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1272,,ND 0kW,AC,Lérida
+1273,CCS Combo2,Carga Rápida (DC),DC,Lérida
+1274,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+1275,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+1276,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+1277,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+1278,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1279,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+1280,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1281,CCS Combo2+ChadeMO,Carga Rápida (DC),DC,Tarragona
+1282,MENNEKES.M+Schuko,Carga Lenta (AC),AC,Barcelona
+1283,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+1284,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1285,MENNEKES.F,ND 0kW,AC/DC,Barcelona
+1286,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1287,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1288,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1289,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1290,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1291,Schuko,ND 0kW,AC,Barcelona
+1292,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1293,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1294,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1295,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1296,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1297,CCS Combo2+ChadeMO+MENNEKES.M,ND 0kW,AC/DC,Barcelona
+1298,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1299,TESLA i MENNEKES.M,ND 0kW,AC/DC,Barcelona
+1300,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1301,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1302,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+1303,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1304,CCS Combo2+ChadeMO,Carga Rápida (DC),DC,Gerona
+1305,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1306,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+1307,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+1308,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1309,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1310,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+1311,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1312,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1313,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+1314,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1315,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1316,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1317,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+1318,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1319,CCS Combo2,Carga Ultrarrápida (DC),DC,Lérida
+1320,TESLA,ND 0kW,AC,Gerona
+1321,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1322,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1323,CCS Combo2+ChadeMO+MENNEKES.M,ND 0kW,AC/DC,Barcelona
+1324,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1325,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1326,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1327,MENNEKES.M+Schuko,Carga Lenta (AC),AC,Barcelona
+1328,CCS Combo2+ChadeMO,Carga Rápida (DC),DC,Barcelona
+1329,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+1330,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1331,TESLA i MENNEKES.M,ND 0kW,AC/DC,Barcelona
+1332,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+1333,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+1334,MENNEKES.M,Carga Rápida (DC),AC,Tarragona
+1335,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1336,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1337,TESLA,ND 0kW,AC,Barcelona
+1338,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1339,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1340,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1341,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1342,,ND 0kW,AC,Lérida
+1343,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+1344,MENNEKES.M,Carga Lenta (AC),AC,Tarragona
+1345,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1346,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1347,Schuko,ND 0kW,AC,Barcelona
+1348,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1349,CCS Combo2+MENNEKES.M,Carga Ultrarrápida (DC),AC/DC,Gerona
+1350,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1351,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+1352,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1353,Schuko,ND 0kW,AC,Barcelona
+1354,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+1355,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1356,CCS Combo2,Carga Ultrarrápida (DC),DC,Barcelona
+1357,CCS Combo2,Carga Ultrarrápida (DC),DC,Lérida
+1358,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1359,CCS Combo2,Carga Ultrarrápida (DC),DC,Lérida
+1360,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1361,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1362,CCS Combo2,Carga Rápida (DC),DC,Tarragona
+1363,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+1364,MENNEKES.F+Schuko,ND 0kW,AC/DC,Gerona
+1365,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1366,MENNEKES.M+Schuko,Carga Semirrápida (AC),AC,Barcelona
+1367,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+1368,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1369,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+1370,MENNEKES.M+Schuko,Carga Semirrápida (AC),AC,Barcelona
+1371,CCS Combo2,Carga Ultrarrápida (DC),DC,Gerona
+1372,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1373,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+1374,MENNEKES.M+Schuko,Carga Semirrápida (AC),AC,Gerona
+1375,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1376,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1377,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1378,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1379,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+1380,CCS Combo2+ChadeMO+MENNEKES.M,ND 0kW,AC/DC,Barcelona
+1381,CCS Combo2,Carga Ultrarrápida (DC),DC,Barcelona
+1382,CCS Combo2,Carga Ultrarrápida (DC),DC,Gerona
+1383,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+1384,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+1385,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+1386,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1387,CCS Combo2+ChadeMO,Carga Rápida (DC),DC,Lérida
+1388,MENNEKES.F+Schuko,ND 0kW,AC/DC,Barcelona
+1389,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1390,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+1391,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+1392,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1393,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1394,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1395,MENNEKES+Schuko,ND 0kW,AC/DC,Barcelona
+1396,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1397,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1398,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1399,MENNEKES.M,Carga Rápida (DC),AC,Lérida
+1400,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+1401,CCS Combo2,Carga Ultrarrápida (DC),DC,Barcelona
+1402,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1403,Schuko,ND 0kW,AC,Barcelona
+1404,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+1405,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1406,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+1407,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1408,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1409,CCS Combo2+ChadeMO,Carga Rápida (DC),DC,Barcelona
+1410,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1411,CCS Combo2+ChadeMO,Carga Rápida (DC),DC,Barcelona
+1412,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+1413,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1414,MENNEKES.M+Schuko,Carga Lenta (AC),AC,Barcelona
+1415,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1416,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1417,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1418,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1419,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+1420,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1421,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1422,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1423,CCS Combo2,Carga Ultrarrápida (DC),DC,Lérida
+1424,TESLA,ND 0kW,AC,Barcelona
+1425,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+1426,CCS Combo2,Carga Rápida (DC),DC,Lérida
+1427,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1428,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+1429,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+1430,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1431,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1432,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1433,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1434,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1435,CCS Combo2+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+1436,CCS Combo2,Carga Rápida (DC),DC,Barcelona
+1437,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1438,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1439,MENNEKES.M+Schuko,Carga Lenta (AC),AC,Barcelona
+1440,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+1441,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1442,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1443,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1444,CCS Combo2,Carga Ultrarrápida (DC),DC,Barcelona
+1445,MENNEKES.M,Carga Rápida (DC),AC,Tarragona
+1446,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+1447,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1448,CCS Combo2+ChadeMO+MENNEKES.M,ND 0kW,AC/DC,Barcelona
+1449,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1450,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1451,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1452,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+1453,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1454,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1455,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+1456,CCS Combo2+ChadeMO+MENNEKES.M+Schuko,Carga Rápida (DC),AC/DC,Barcelona
+1457,Schuko,ND 0kW,AC,Barcelona
+1458,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1459,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1460,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1461,CCS Combo2+ChadeMO,Carga Rápida (DC),DC,Barcelona
+1462,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1463,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1464,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1465,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1466,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1467,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1468,CCS Combo2,Carga Ultrarrápida (DC),DC,Gerona
+1469,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1470,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1471,CCS Combo2+ChadeMO+MENNEKES.M,Carga Ultrarrápida (DC),AC/DC,Tarragona
+1472,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+1473,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1474,MENNEKES.M,Carga Lenta (AC),AC,Gerona
+1475,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1476,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+1477,,ND 0kW,AC,Barcelona
+1478,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1479,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1480,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1481,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+1482,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1483,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1484,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1485,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1486,CCS Combo2,Carga Rápida (DC),DC,Barcelona
+1487,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1488,CCS Combo2,Carga Rápida (DC),DC,Gerona
+1489,MENNEKES.M,Carga Rápida (DC),AC,Lérida
+1490,CCS Combo2,Carga Rápida (DC),DC,Lérida
+1491,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+1492,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+1493,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+1494,CCS Combo2+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+1495,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1496,MENNEKES.M+Schuko,ND 0kW,AC/DC,Barcelona
+1497,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1498,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1499,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1500,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1501,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1502,Schuko,ND 0kW,AC,Barcelona
+1503,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1504,CCS Combo2,Carga Rápida (DC),DC,Barcelona
+1505,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1506,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1507,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1508,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1509,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1510,CCS Combo2,Carga Rápida (DC),DC,Lérida
+1511,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1512,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1513,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+1514,CCS Combo2,Carga Rápida (DC),DC,Gerona
+1515,,ND 0kW,AC,Gerona
+1516,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1517,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1518,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+1519,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+1520,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+1521,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1522,Schuko,ND 0kW,AC,Barcelona
+1523,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1524,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1525,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+1526,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1527,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1528,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+1529,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+1530,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1531,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1532,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1533,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1534,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1535,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1536,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1537,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+1538,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+1539,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1540,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1541,MENNEKES.M,Carga Rápida (DC),AC,Tarragona
+1542,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1543,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1544,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1545,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1546,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+1547,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1548,CCS Combo2,Carga Rápida (DC),DC,Barcelona
+1549,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1550,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1551,Schuko,ND 0kW,AC,Barcelona
+1552,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1553,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1554,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+1555,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1556,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+1557,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+1558,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1559,CCS Combo2,Carga Rápida (DC),DC,Barcelona
+1560,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1561,CCS Combo2,Carga Rápida (DC),DC,Barcelona
+1562,CCS Combo2,Carga Ultrarrápida (DC),DC,Gerona
+1563,MENNEKES.M+Schuko,Carga Lenta (AC),AC,Barcelona
+1564,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1565,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+1566,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+1567,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1568,MENNEKES.M,Carga Lenta (AC),AC,Barcelona
+1569,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+1570,CCS Combo2,Carga Ultrarrápida (DC),DC,Tarragona
+1571,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1572,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+1573,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1574,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1575,CCS Combo2+ChadeMO+MENNEKES.M,ND 0kW,AC/DC,Barcelona
+1576,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1577,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1578,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1579,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1580,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+1581,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+1582,CCS Combo2,Carga Rápida (DC),DC,Barcelona
+1583,CCS Combo2+ChadeMO,Carga Rápida (DC),DC,Barcelona
+1584,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1585,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+1586,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+1587,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1588,CCS Combo2,Carga Rápida (DC),DC,Barcelona
+1589,MENNEKES.M+Schuko,Carga Lenta (AC),AC,Barcelona
+1590,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1591,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1592,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+1593,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1594,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1595,CCS Combo2+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1596,CCS Combo2,Carga Ultrarrápida (DC),DC,Gerona
+1597,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1598,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+1599,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1600,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1601,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1602,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1603,MENNEKES.M+Schuko,Carga Lenta (AC),AC,Barcelona
+1604,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1605,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1606,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1607,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1608,MENNEKES.M,Carga Rápida (DC),AC,Tarragona
+1609,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+1610,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1611,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1612,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1613,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+1614,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1615,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1616,CCS Combo2,Carga Rápida (DC),DC,Barcelona
+1617,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1618,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1619,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+1620,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+1621,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1622,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+1623,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+1624,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1625,CCS Combo2+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+1626,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1627,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+1628,MENNEKES.M+Schuko,Carga Semirrápida (AC),AC,Barcelona
+1629,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1630,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1631,CCS Combo2,Carga Ultrarrápida (DC),DC,Tarragona
+1632,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1633,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1634,CCS Combo2,Carga Rápida (DC),DC,Barcelona
+1635,CCS Combo2,Carga Rápida (DC),DC,Barcelona
+1636,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1637,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+1638,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1639,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1640,CCS Combo2,Carga Rápida (DC),DC,Gerona
+1641,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1642,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+1643,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1644,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+1645,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1646,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+1647,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1648,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1649,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1650,CCS Combo2,Carga Rápida (DC),DC,Barcelona
+1651,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1652,MENNEKES.M+Schuko,Carga Lenta (AC),AC,Barcelona
+1653,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1654,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1655,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1656,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1657,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+1658,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1659,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1660,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1661,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1662,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1663,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+1664,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1665,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1666,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+1667,,ND 0kW,AC,Barcelona
+1668,CCS Combo2,Carga Rápida (DC),DC,Barcelona
+1669,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1670,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+1671,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1672,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+1673,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+1674,CCS Combo2,Carga Ultrarrápida (DC),DC,Gerona
+1675,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1676,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1677,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+1678,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1679,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+1680,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+1681,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1682,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1683,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1684,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1685,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1686,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+1687,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1688,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+1689,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1690,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1691,MENNEKES.F+Schuko,ND 0kW,AC/DC,Gerona
+1692,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1693,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1694,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1695,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1696,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1697,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+1698,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1699,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1700,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1701,CCS Combo2+ChadeMO,Carga Semirrápida (AC),DC,Gerona
+1702,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1703,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1704,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1705,2xMENNEKES.F,ND 0kW,AC/DC,Barcelona
+1706,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1707,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1708,MENNEKES.M+Schuko,Carga Lenta (AC),AC,Barcelona
+1709,MENNEKES.M+Schuko,Carga Semirrápida (AC),AC,Barcelona
+1710,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+1711,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1712,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+1713,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1714,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+1715,Schuko,ND 0kW,AC,Barcelona
+1716,Schuko,ND 0kW,AC,Barcelona
+1717,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+1718,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+1719,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1720,CCS Combo2+ChadeMO+MENNEKES.M+Shuko,ND 0kW,AC/DC,Barcelona
+1721,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1722,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1723,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1724,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+1725,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1726,CCS Combo2,Carga Rápida (DC),DC,Tarragona
+1727,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1728,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+1729,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1730,CCS Combo2,Carga Rápida (DC),DC,Barcelona
+1731,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1732,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+1733,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+1734,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1735,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1736,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1737,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1738,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1739,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1740,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+1741,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+1742,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1743,CCS Combo2+ChadeMO+MENNEKES.M,ND 0kW,AC/DC,Barcelona
+1744,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+1745,MENNEKES.M+Schuko,Carga Semirrápida (AC),AC,Barcelona
+1746,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1747,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+1748,CCS Combo2+MENNEKES.M,Carga Ultrarrápida (DC),AC/DC,Gerona
+1749,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1750,CCS Combo2+ChadeMO+MENNEKES.M+Schuko,Carga Rápida (DC),AC/DC,Barcelona
+1751,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1752,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+1753,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+1754,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1755,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+1756,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1757,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1758,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1759,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+1760,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1761,,ND 0kW,AC,Barcelona
+1762,TESLA,ND 0kW,AC,Gerona
+1763,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+1764,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1765,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1766,CCS Combo2,Carga Rápida (DC),DC,Barcelona
+1767,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1768,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1769,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1770,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1771,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1772,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1773,CCS Combo2,Carga Ultrarrápida (DC),DC,Barcelona
+1774,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1775,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+1776,CCS Combo2+ChadeMO,Carga Rápida (DC),DC,Lérida
+1777,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1778,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+1779,CCS Combo2,Carga Rápida (DC),DC,Gerona
+1780,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1781,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1782,MENNEKES.F+Schuko,ND 0kW,AC/DC,Gerona
+1783,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1784,Schuko,ND 0kW,AC,Barcelona
+1785,,ND 0kW,AC,Barcelona
+1786,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1787,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+1788,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1789,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+1790,CCS Combo2+ChadeMO+MENNEKES.M,ND 0kW,AC/DC,Barcelona
+1791,MENNEKES.M,Carga Lenta (AC),AC,Barcelona
+1792,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1793,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1794,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1795,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1796,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+1797,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1798,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1799,MENNEKES.M+Schuko,Carga Semirrápida (AC),AC,Barcelona
+1800,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+1801,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1802,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1803,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1804,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1805,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+1806,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1807,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1808,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+1809,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1810,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1811,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1812,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1813,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+1814,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1815,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1816,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+1817,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1818,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1819,MENNEKES.M+Schuko,Carga Lenta (AC),AC,Barcelona
+1820,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+1821,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1822,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1823,CCS Combo2+ChadeMO+MENNEKES.M+Shucko,ND 0kW,AC/DC,Barcelona
+1824,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1825,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1826,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1827,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+1828,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+1829,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+1830,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+1831,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+1832,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1833,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1834,CCS Combo2+MENNEKES.M,Carga Ultrarrápida (DC),AC/DC,Gerona
+1835,CCS Combo2+ChadeMO+MENNEKES.M+Shucko,ND 0kW,AC/DC,Barcelona
+1836,CCS Combo2+ChadeMO+MENNEKES.M,ND 0kW,AC/DC,Barcelona
+1837,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1838,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1839,CCS Combo2+ChadeMO,Carga Rápida (DC),DC,Barcelona
+1840,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+1841,MENNEKES.TESLA,ND 0kW,AC/DC,Lérida
+1842,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1843,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1844,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1845,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1846,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1847,ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1848,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1849,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1850,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+1851,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1852,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+1853,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1854,MENNEKES.M,Carga Rápida (DC),AC,Tarragona
+1855,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1856,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+1857,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1858,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1859,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1860,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1861,CCS Combo2+ChadeMO+MENNEKES.M+Shucko,ND 0kW,AC/DC,Barcelona
+1862,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1863,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1864,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1865,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+1866,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1867,ChadeMO,Carga Rápida (DC),DC,Tarragona
+1868,TESLA,ND 0kW,AC,Tarragona
+1869,CCS Combo2+ChadeMO+MENNEKES.M,Carga Ultrarrápida (DC),AC/DC,Lérida
+1870,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1871,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1872,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1873,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1874,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+1875,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1876,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1877,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+1878,TESLA i MENNEKES.M,ND 0kW,AC/DC,Barcelona
+1879,,ND 0kW,AC,Barcelona
+1880,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1881,Schuko,ND 0kW,AC,Barcelona
+1882,,ND 0kW,AC,Barcelona
+1883,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+1884,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+1885,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1886,MENNEKES.M+Schuko,Carga Lenta (AC),AC,Barcelona
+1887,MENNEKES.M+Schuko,Carga Lenta (AC),AC,Barcelona
+1888,CCS Combo2,Carga Ultrarrápida (DC),DC,Gerona
+1889,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1890,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+1891,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+1892,CCS Combo2+ChadeMO+MENNEKES.M,Carga Ultrarrápida (DC),AC/DC,Tarragona
+1893,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1894,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1895,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1896,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1897,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1898,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1899,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+1900,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+1901,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1902,CCS Combo2+ChadeMO+MENNEKES.M,Carga Ultrarrápida (DC),AC/DC,Barcelona
+1903,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1904,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+1905,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1906,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+1907,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1908,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1909,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1910,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+1911,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1912,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1913,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1914,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1915,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1916,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1917,CCS Combo2,Carga Rápida (DC),DC,Barcelona
+1918,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1919,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1920,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1921,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1922,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1923,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1924,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1925,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+1926,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1927,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1928,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+1929,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1930,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1931,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1932,MENNEKES.M,Carga Rápida (DC),AC,Lérida
+1933,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1934,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+1935,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1936,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+1937,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1938,MENNEKES.M,Carga Rápida (DC),AC,Tarragona
+1939,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1940,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+1941,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1942,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+1943,CCS Combo2,Carga Rápida (DC),DC,Barcelona
+1944,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1945,TESLA,ND 0kW,AC,Barcelona
+1946,Schuko,ND 0kW,AC,Barcelona
+1947,CCS Combo2,Carga Ultrarrápida (DC),DC,Gerona
+1948,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+1949,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1950,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1951,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+1952,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+1953,CCS Combo2,Carga Ultrarrápida (DC),DC,Gerona
+1954,MENNEKES.F+Schuko,ND 0kW,AC/DC,Barcelona
+1955,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1956,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1957,CCS Combo2,Carga Rápida (DC),DC,Lérida
+1958,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1959,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1960,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1961,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1962,MENNEKES.M+Schuko,Carga Semirrápida (AC),AC,Barcelona
+1963,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1964,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1965,,ND 0kW,AC,Barcelona
+1966,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+1967,CCS Combo2,Carga Ultrarrápida (DC),DC,Gerona
+1968,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1969,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1970,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1971,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1972,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1973,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+1974,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1975,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1976,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1977,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1978,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+1979,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+1980,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1981,CCS Combo2+ChadeMO+MENNEKES.M+Shucko,ND 0kW,AC/DC,Barcelona
+1982,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+1983,CCS Combo2,Carga Rápida (DC),DC,Barcelona
+1984,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1985,CCS Combo2+ChadeMO,Carga Rápida (DC),DC,Tarragona
+1986,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1987,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+1988,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1989,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1990,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+1991,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1992,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+1993,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+1994,ChadeMO,Carga Rápida (DC),DC,Tarragona
+1995,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+1996,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+1997,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+1998,MENNEKES.M+Schuko,Carga Lenta (AC),AC,Barcelona
+1999,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+2000,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2001,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2002,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+2003,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+2004,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2005,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+2006,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2007,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2008,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+2009,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2010,MENNEKES.F+Schuko,ND 0kW,AC/DC,Gerona
+2011,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+2012,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2013,Schuko,ND 0kW,AC,Barcelona
+2014,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+2015,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2016,MENNEKES.M,ND 0kW,AC/DC,Barcelona
+2017,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2018,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+2019,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+2020,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2021,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2022,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+2023,CCS Combo2,Carga Ultrarrápida (DC),DC,Tarragona
+2024,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2025,CCS Combo2+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+2026,CCS Combo2+ChadeMO+MENNEKES.M,ND 0kW,AC/DC,Barcelona
+2027,Schuko,ND 0kW,AC,Barcelona
+2028,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+2029,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+2030,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2031,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+2032,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+2033,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2034,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+2035,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2036,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+2037,CCS Combo2,Carga Ultrarrápida (DC),DC,Lérida
+2038,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2039,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+2040,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+2041,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+2042,MENNEKES.M,Carga Rápida (DC),AC,Lérida
+2043,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2044,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+2045,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+2046,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+2047,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2048,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+2049,MENNEKES.M,Carga Lenta (AC),AC,Tarragona
+2050,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+2051,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2052,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+2053,CCS Combo2,Carga Rápida (DC),DC,Tarragona
+2054,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2055,,ND 0kW,AC,Barcelona
+2056,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+2057,CCS Combo2+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+2058,MENNEKES.M,Carga Rápida (DC),AC,Lérida
+2059,MENNEKES.F+Schuko,ND 0kW,AC/DC,Barcelona
+2060,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+2061,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+2062,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+2063,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+2064,CCS Combo2+ChadeMO,Carga Rápida (DC),DC,Barcelona
+2065,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+2066,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2067,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+2068,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+2069,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+2070,MENNEKES.M+Schuko,Carga Rápida (DC),AC,Barcelona
+2071,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+2072,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+2073,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+2074,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+2075,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+2076,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+2077,CCS Combo2,Carga Ultrarrápida (DC),DC,Gerona
+2078,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+2079,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+2080,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+2081,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2082,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2083,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2084,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2085,MENNEKES.F+Schuko,ND 0kW,AC/DC,Barcelona
+2086,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+2087,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+2088,Schuko,ND 0kW,AC,Barcelona
+2089,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+2090,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2091,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+2092,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+2093,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+2094,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+2095,CCS Combo2+ChadeMO+MENNEKES.M,Carga Ultrarrápida (DC),AC/DC,Gerona
+2096,Schuko,ND 0kW,AC,Barcelona
+2097,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+2098,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+2099,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+2100,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2101,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2102,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+2103,CCS Combo2,Carga Ultrarrápida (DC),DC,Barcelona
+2104,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+2105,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+2106,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+2107,MENNEKES.M+Schuko,Carga Semirrápida (AC),AC,Tarragona
+2108,MENNEKES.M,Carga Rápida (DC),AC,Tarragona
+2109,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+2110,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+2111,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+2112,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+2113,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2114,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2115,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2116,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+2117,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2118,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+2119,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+2120,CCS Combo2+ChadeMO+MENNEKES.M,ND 0kW,AC/DC,Tarragona
+2121,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+2122,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+2123,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2124,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+2125,MENNEKES.M+Schuko,Carga Semirrápida (AC),AC,Barcelona
+2126,MENNEKES.M+Schuko,Carga Lenta (AC),AC,Barcelona
+2127,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+2128,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2129,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+2130,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2131,CCS Combo2+MENNEKES.M,Carga Ultrarrápida (DC),AC/DC,Gerona
+2132,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2133,MENNEKES.M,Carga Lenta (AC),AC,Barcelona
+2134,CCS Combo2,Carga Rápida (DC),DC,Tarragona
+2135,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2136,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+2137,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+2138,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+2139,Schuko,ND 0kW,AC,Barcelona
+2140,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+2141,CCS Combo2,Carga Rápida (DC),DC,Gerona
+2142,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+2143,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+2144,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2145,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+2146,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2147,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+2148,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+2149,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2150,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+2151,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2152,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+2153,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+2154,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+2155,CCS Combo2,Carga Rápida (DC),DC,Barcelona
+2156,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+2157,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2158,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+2159,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Gerona
+2160,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+2161,CCS Combo2+ChadeMO+MENNEKES.M,ND 0kW,AC/DC,Barcelona
+2162,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2163,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2164,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2165,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2166,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+2167,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+2168,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+2169,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2170,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2171,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2172,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+2173,CCS Combo2,Carga Rápida (DC),DC,Lérida
+2174,CCS Combo2,Carga Rápida (DC),DC,Tarragona
+2175,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+2176,TESLA,ND 0kW,AC,Gerona
+2177,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+2178,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+2179,CCS Combo2+ChadeMO+MENNEKES.M,ND 0kW,AC/DC,Barcelona
+2180,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2181,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+2182,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+2183,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2184,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2185,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+2186,MENNEKES.M+Schuko,Carga Semirrápida (AC),AC,Barcelona
+2187,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+2188,TESLA,ND 0kW,AC,Barcelona
+2189,TESLA,ND 0kW,AC,Barcelona
+2190,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+2191,CCS Combo2+ChadeMO,Carga Rápida (DC),DC,Barcelona
+2192,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+2193,CCS Combo2+ChadeMO+MENNEKES.M,ND 0kW,AC/DC,Barcelona
+2194,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2195,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2196,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+2197,CCS Combo2,Carga Rápida (DC),DC,Tarragona
+2198,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+2199,MENNEKES.M+Schuko,Carga Semirrápida (AC),AC,Barcelona
+2200,,ND 0kW,AC,Gerona
+2201,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+2202,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+2203,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+2204,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+2205,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2206,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2207,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+2208,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2209,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2210,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2211,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+2212,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+2213,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2214,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2215,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2216,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+2217,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+2218,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+2219,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+2220,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2221,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+2222,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+2223,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+2224,,ND 0kW,AC,Barcelona
+2225,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2226,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2227,Schuko,ND 0kW,AC,Barcelona
+2228,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+2229,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+2230,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+2231,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+2232,MENNEKES.TESLA,ND 0kW,AC/DC,Gerona
+2233,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2234,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+2235,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2236,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+2237,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2238,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+2239,CCS Combo2+ChadeMO+MENNEKES.M,ND 0kW,AC/DC,Barcelona
+2240,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+2241,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2242,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+2243,CCS Combo2+ChadeMO+MENNEKES.M+Schuko,Carga Rápida (DC),AC/DC,Barcelona
+2244,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+2245,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+2246,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+2247,Schuko,ND 0kW,AC,Barcelona
+2248,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2249,CCS Combo2+ChadeMO+MENNEKES.M,Carga Ultrarrápida (DC),AC/DC,Tarragona
+2250,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+2251,Schuko,ND 0kW,AC,Barcelona
+2252,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2253,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+2254,TESLA+MENNEKES.M,ND 0kW,AC/DC,Barcelona
+2255,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2256,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+2257,MENNEKES.M,Carga Ultrarrápida (DC),AC,Barcelona
+2258,CCS Combo2,Carga Rápida (DC),DC,Gerona
+2259,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+2260,TESLA,ND 0kW,AC,Gerona
+2261,MENNEKES.M,Carga Semirrápida (AC),AC,Lérida
+2262,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2263,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+2264,CCS Combo2,Carga Ultrarrápida (DC),DC,Gerona
+2265,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+2266,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+2267,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+2268,Schuko,ND 0kW,AC,Barcelona
+2269,MENNEKES.M,Carga Semirrápida (AC),AC,Barcelona
+2270,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+2271,MENNEKES.M,Carga Semirrápida (AC),AC,Gerona
+2272,CCS Combo2,Carga Rápida (DC),DC,Gerona
+2273,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Barcelona
+2274,,ND 0kW,AC,Tarragona
+2275,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+2276,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
+2277,MENNEKES.M,Carga Rápida (DC),AC,Barcelona
+2278,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Lérida
+2279,MENNEKES.M,Carga Rápida (DC),AC,Gerona
+2280,CCS Combo2+ChadeMO+MENNEKES.M,Carga Rápida (DC),AC/DC,Tarragona
+2281,MENNEKES.M,Carga Semirrápida (AC),AC,Tarragona
